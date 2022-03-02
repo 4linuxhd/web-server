@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: web-server
+  role_name: web_server
   author: 4Linux DevOps
   description: Instalação e Configuração do servidor Apache
   company: 4Linux
